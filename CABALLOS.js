@@ -30,7 +30,13 @@ function x(){
     var y = Math.floor(Math.random()*6)+1;
     return y
 }
+
+
+
 // estructura del html 
+
+
+
 
 <!DOCTYPE html>
 <html lang="es">
